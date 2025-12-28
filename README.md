@@ -1,6 +1,6 @@
 # Netflix Analysis
 Conducted exploratory data analysis (EDA) on Netflix dataset to identify content trends, distribution of movies and TV shows across regions, genres, and release years.  Utilized Python libraries for data cleaning, transformation, visualization, and insights extraction.  Analyzed growth patterns of Netflix to derive data-driven insights. 
-The Netflix  Project focuses on analyzing a dataset containing Netflix movies and TV shows to extract meaningful insights using SQL. The project involves data cleaning, transformation, and querying to answer real-world business questions related to the streaming platform.
+The Netflix  Project focuses on analyzing a dataset containing Netflix movies and TV shows to extract meaningful insights using Python and SQL. The project involves data cleaning, transformation, and querying to answer real-world business questions related to the streaming platform.
 
 Objectives
 
